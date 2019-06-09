@@ -1,0 +1,10 @@
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\bin\Debug\TradingAppLibrary.dll
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\bin\Debug\TradingAppLibrary.pdb
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\obj\Debug\TradingAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\obj\Debug\TradingAppLibrary.csproj.CopyComplete
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\obj\Debug\TradingAppLibrary.dll
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\obj\Debug\TradingAppLibrary.pdb
+C:\Users\Marek\Documents\skola\WpfApp1\ClassLibrary1\obj\Debug\TradingAppLibrary.csprojAssemblyReference.cache
